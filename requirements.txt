@@ -1,0 +1,4 @@
+pytubefix
+moviepy
+pyinstaller
+pysimplegui
